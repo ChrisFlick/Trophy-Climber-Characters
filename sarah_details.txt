@@ -57,3 +57,72 @@ Locked into Wife v9
 Applies to all future versions unless manually overridden
 
 Must be enforced even when eye visibility is reduced (e.g., under glasses or squint)
+
+👠 Shoe Design Lock (Version 12)
+🩰 Type
+Open-toe, high-heeled ankle boots
+
+🎨 Color
+Matte black — no gloss, no texture shading, no lighting effects
+
+🔧 Structural Requirements
+Front Panel
+Tall and narrow front structure
+
+Perforated square grid pattern
+
+Grid must have rounded edges
+
+Grid alignment must be smoother and more precise than v11
+
+Skin beneath the holes must be clearly visible
+
+Increased contrast between shoe and leg to emphasize perforation
+
+Back
+Fully open heel — skin must be clearly visible
+
+Strap
+Vertical ankle strap wrapping behind the heel
+
+Strap must remain distinct and proportional — no blending with upper panel
+
+Side Cutouts
+Visible side cutouts at both ankles
+
+Must preserve the open ankle silhouette from side view
+
+Heel
+Medium-height block heel
+
+Shape must remain stable and supportive — no narrowing or stylization
+
+👣 Toe Detail
+Peep-toe must show at least three individual toes
+
+Each toe must be:
+
+Clearly separated
+
+Properly curved and anatomically aligned
+
+Sized proportionally for a realistic foot
+
+🎨 Material Rendering
+Matte fill only — absolutely no gradient, texture, or lighting effects
+
+Shoe must appear flat and uniform in tone
+
+No shine, specular highlights, or photorealistic surface simulation
+
+🖼️ Art Style Enforcement
+Semi-Realistic Digital Ink Illustration only
+
+Clean black outlines with uniform stroke weight
+
+Flat matte color fills
+
+Geometric shadows with hard edges — no blending or airbrushing
+
+Detail level must match rendering fidelity of the Wife v9 character
+
