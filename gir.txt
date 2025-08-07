@@ -1,0 +1,78 @@
+🦜 Character: Conure — Version 1 (Locked)
+Full-body digital ink illustration of a green-cheeked conure parrot perched in a neutral pose, facing slightly to the side.
+
+🎨 Art Style
+Semi-Realistic Digital Ink Illustration
+
+Clean, hard-edged black outlines with uniform stroke weight
+
+Matte flat color fills — no gradients, no airbrushing
+
+Shadows rendered with hard-edged geometric tone blocks
+
+Feather textures simplified into grouped geometric planes — no soft detailing
+
+Consistent with the visual language of prestige comic realism
+
+🧠 Role & Design Constraints
+Character role: Solo character, comic relief
+
+Not anthropomorphized — rendered as a real bird within the ink art style
+
+Pose variations permitted, but must remain grounded in bird anatomy
+
+🎨 Color Palette — Final Locked Palette (v1)
+🟤 Crown & Face
+Base: #4B403A
+
+Shadow: #332A26
+
+🟢 Cheeks & Back
+Emerald Green: #3A8249
+
+🟡 Chest Scallops
+Base: #B6A47A
+
+Shadow: #988662
+
+Highlight: #D1BE90
+
+🔴 Belly Patch
+Base: #A43F39
+
+Shadow: #6F2A25
+
+🔵 Flight Feathers
+Plat Blue Variant
+
+Base: #6D7BE3
+
+Shadow: #425A9D
+
+(This adaptation aligns with the visual palette of other characters)
+
+🔻 Tail Feathers
+Base: #8B1E24
+
+Shadow: #5E1115
+
+⚫ Beak & Iris
+Matte Black: #2C2B2A
+
+⚪ Eye Ring
+Base: #F2F2F2
+
+Shadow: #D9D9D9
+
+🐦 Structural Requirements
+Eye: One wide, expressive eye clearly visible
+
+Beak: Closed or slightly open — must reflect curiosity or alert focus
+
+Head: Tilted or angled slightly for engagement
+
+Feet: Gripping a branch or surface (if visible), rendered proportionally
+
+Feathers: Wing layering simplified into clean ink contour blocks
+
+No extra props or stylization unless explicitly added

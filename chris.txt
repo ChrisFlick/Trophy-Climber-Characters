@@ -1,0 +1,57 @@
+🧍‍♂️ Character: Adult Male — Full Prompt
+Full-body digital ink illustration of an adult man standing in a relaxed neutral pose with arms at his sides.
+
+🎨 Art Style
+Semi-Realistic Digital Ink Illustration
+
+Clean, hard-edged black outlines with consistent line weight
+
+Matte flat color fills only — no gradients, no airbrushing
+
+Shadows rendered as hard-edged geometric tone blocks
+
+Visual tone consistent with prestige graphic novels or character concept art
+
+No cartoon exaggeration, no soft painterly rendering
+
+👤 Face & Beard
+Full, dense medium-long beard with natural downward taper
+
+Beard remains thick under the chin with a soft edge — no trimming or simplification
+
+High angular cheekline, not rounded or faded
+
+Preserve exact beard color and shadow depth from reference
+
+No stylization or alteration to beard shape, taper, or density
+
+👔 Outfit
+Pure black suit jacket
+
+Solid black skinny tie with centered copper tie clip (#74523F)
+
+Button-up shirt in dark muted tone
+
+Base: #3A3B35
+
+Shadows: #27221B, #232117, #201C15, #1C190F, #1F1B11
+
+No added vests, lapel pins, or layers
+
+🎨 Skin & Shadows
+Olive-based natural skin tone with high-contrast geometric shadow planes
+
+Matte fill only — no gradient blending
+
+Maintain consistent facial shading across jawline, cheeks, and neck
+
+📐 Composition Lock
+Centered subject with ample left and right margins
+
+White background extending past both shoulders
+
+Maintain same framing and width as reference
+
+Do not zoom, crop, or scale the character
+
+Negative space must match original template
