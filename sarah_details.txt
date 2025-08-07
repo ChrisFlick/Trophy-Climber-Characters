@@ -1,0 +1,59 @@
+💅 Nail Polish Lock (Plat Blue)
+🎨 Color:
+Base: #6D7BE3 (Plat Blue — channel standard)
+
+✅ Application Rules:
+Must be applied to both fingers and toes
+
+Consistent matte flat fill — no gloss, no gradient, no shine
+
+Nail shape may vary with character but must remain clean and proportional
+
+🔒 Enforcement:
+Applies to the Wife character (v7 onward) and any characters explicitly assigned this palette
+
+Toe and finger polish must match exactly unless a version override is declared
+
+💄 Lipstick Lock (Dusty Mauve-Rose Variant)
+🎨 Color Palette:
+Base: #A76477
+
+Shadow: #85485D
+
+Highlight: #C37A8C
+
+✅ Application Rules:
+Finish: Satin / demi-matte — must not appear glossy or fully flat
+
+Opacity: Medium coverage
+
+Edges: Clean, with soft transitions — no harsh lining or feathering
+
+🔒 Enforcement:
+Locked for use on the Wife character v9
+
+Lipstick must maintain structural shape of lips — no distortion or exaggeration
+
+Finish must be texturally accurate to satin (light-soft reflection, not hard specular)
+
+👁️ Eye Color Lock (Grey Variant)
+🎨 Color Palette:
+Outer Iris: #BDC2C7 (cool grey tone)
+
+Limbal Ring: #4A4D52 (charcoal grey)
+
+Inner Highlights: subtle if needed, but no hazel, brown, or blue hues
+
+✅ Application Rules:
+Eyes must appear vivid grey with strong inner-outer contrast
+
+No muddiness or desaturation allowed
+
+No hazel tones, yellow tints, or color mixing
+
+🔒 Enforcement:
+Locked into Wife v9
+
+Applies to all future versions unless manually overridden
+
+Must be enforced even when eye visibility is reduced (e.g., under glasses or squint)
