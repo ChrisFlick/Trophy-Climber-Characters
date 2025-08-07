@@ -1,94 +1,109 @@
-🧍‍♀️ Character: Wife v7 — Full Prompt
-Full-body digital ink illustration of the wife, standing in a relaxed neutral pose with arms at her sides.
+👩 Character: Mom v1 — Full Prompt
+Full-body digital ink illustration of an adult woman standing in a relaxed neutral pose, facing forward.
 
 🎨 Art Style
-Semi-Realistic Digital Ink Illustration
+Anime-Inspired Clean Ink Illustration
 
-Clean, hard-edged black outlines with uniform line weight
+Smooth, clean black outlines with consistent stroke thickness
 
-Matte flat color fills only — no gradients or airbrushing
+Flat color fills — no gradients, no airbrushing
 
-Shadows rendered with geometric tone blocks, not blended
+Shadowing with simple tone blocks — not blended
 
-Visual tone consistent with prestige graphic novel/comic realism
+Aesthetic consistent with prestige anime or high-quality manga
 
-No anime features, cartoon styling, or cel-shading
+No stylization drift into semi-realistic or painterly style
 
-👩‍🎤 Face & Hair
-Expression: Relaxed and confident, closed-lip smile
+👤 Facial Structure & Expression
+Jaw & Chin:
+
+"Defined mandibular angle with soft lateral taper toward a broad, rounded chin"
+
+Cheeks:
+
+"Full cheek mass with upward projection during smile"
+
+Visible nasolabial crease during expression
 
 Eyes:
 
-Color: Vivid grey only
+"Soft almond shape with slight upward cant and visible upper lid crease"
 
-No hazel, no color mixing — eyes must have clear grey tone and contrast
+Nose:
 
-Hair:
+"Straight nasal bridge with rounded tip — moderate width"
 
-Color: Plat Blue
+Facial Volume:
 
-Base: #6D7BE3
+"Midface and lower face retain soft fullness — not gaunt or narrow"
 
-Shadow: #4757A5
+Lips:
 
-Highlight: #8E9DF2
+"Upper lip has a softly defined Cupid’s bow with moderate volume and gentle slope toward corners."
 
-Style: Long and straight with gentle outward curl at ends
+"Lower lip is full and rounded, with smooth outward projection and broader width."
 
-Parted to her right
+"Overall lip ratio favors a fuller lower lip (~1:1.5), with a natural curved silhouette."
 
-🧍‍♀️ Body & Outfit
-Height: 6.8 heads tall
+"Lips remain shapely and defined even when relaxed — no harsh lines or flattening."
 
-Shoulders: 2.2 heads wide
+💇‍♀️ Hair
+Color: Blue-Black Variant
 
-Bust: 2.05 heads wide (~55° taper)
+Base: #2F3A58
 
-Waist: 1.45 heads (~40° outward curve)
+Shadow: #1E263C
 
-Hips: 2.1 heads wide
+Highlight: #49587D
 
-Legs: 3.3 heads long, balanced anatomy
+Style: Not currently defined in memory beyond color (left neutral for pose flexibility)
 
-Arms: Natural length, end above mid-thigh
+👁️ Eye Color
+Cool Grey Variant
 
-Dress:
+Iris Base: #C3C7CD
 
-Type: Scoop-neck, short-sleeve black mini dress
+Limbal Ring: #3A3D42
 
-Color: Matte black
+Highlight: #E1E3E6
 
-No shine or pattern
+💅 Nail Polish
+Deep Navy Blue
 
-💅 Nails
-Nail polish: Plat Blue #6D7BE3 on both fingers and toes
+Base: #1F2A44
 
-👠 Shoes
-Type: Open-toe, high-heeled ankle boots
+Shadow: #121A31
 
-Color: Matte black
+Highlight: #2E3B5A
 
-Design:
+🧍‍♀️ Body Structure & Silhouette
+“Slim-thick anatomy with narrow defined waist, full bust, wide hips, and thick thighs.”
 
-Front panel: Tall and narrow with perforated square grid pattern
+Hips:
 
-Skin must be visible through holes
+“Widest point with strong outward curvature tapering into thick thighs and soft calves.”
 
-Side cutouts at ankles — open design
+Shoulders:
 
-Back: Fully open heel exposing skin
+“Rounded and gently sloped, with width balanced to bust and waist.”
 
-Strap: Vertical ankle strap wraps behind heel
+Arms:
 
-Heel: Medium-height block heel
+“Upper arms are full with smooth taper into forearm — no muscular definition.”
 
-Toes: At least three individual toes must be visible and separated
+Bust:
 
-🖼️ Framing & Composition
-Full-body, neutral pose
+“Moderate to full with natural teardrop shape, proportionate to torso height.”
 
-Centered on white background
+Ribcage:
 
-Generous margin on both sides
+“Narrow, contributing to strong waist indentation.”
 
-No crop, no zoom, no scaling
+Thighs:
+
+“Thigh volume remains dominant even when seated — thick thighs with long taper into knee.”
+
+Overall Silhouette:
+
+“Reflects realistic hourglass with emphasis on lower-body fullness.”
+

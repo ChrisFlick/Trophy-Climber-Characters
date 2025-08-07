@@ -1,0 +1,115 @@
+Full-body digital ink illustration of a young boy (age 8–10) standing in a neutral pose, arms relaxed at his sides.
+
+🎨 Art Style
+Semi-Realistic Digital Ink Illustration
+
+Clean, black line work with uniform stroke thickness
+
+Matte flat color fills — no gradients, no airbrushing
+
+Shadows rendered using hard-edged geometric tone blocks
+
+No cartoon smoothing or stylization
+
+Consistent with prestige comic realism
+
+👦 Anatomy & Proportions
+Age: 8–10 years old
+
+Height: 6.6–6.8 heads tall
+
+Slightly enlarged head relative to body (child stylization)
+
+Narrow, slightly sloped shoulders
+
+Short cylindrical torso with gentle waist taper
+
+Legs proportionally shorter than adult: balanced thighs and calves
+
+Arms reach to just above mid-thigh
+
+Simplified hands and feet — proportionate, not hyper-detailed
+
+🎨 Hair
+Color: Lime-Gold Blond variant
+
+Base: #E3C86D
+
+Shadow: #C7AC58
+
+Highlight: #F4DB91
+
+🧴 Skin
+Tone: Warm Neutral Peach
+
+Base: #D0A77F
+
+Shadow: #B28463
+
+Highlight: #E7C5A1
+
+Matte finish only — flat fills with geometric shadows
+
+👓 Glasses
+Frame: Plat Blue #6D7BE3
+
+Shape: Locked to reference
+
+Lenses: Translucent — eyes clearly visible
+
+No tinting, glare, or reflection
+
+No opaque sunglasses or stylization
+
+👕 Shirt
+Color: Muted gray #73778E
+
+Design: Short sleeves, no collar, no patterns
+
+Center logo: Sword crossed with a paintbrush ("X")
+
+Vector design from reference image
+
+Fill color: #A2D729 (Lime-Green Yellow)
+
+Stroke color: #333333 (Charcoal Black)
+
+Must retain exact geometry:
+
+Sword tip and flared crossguard
+
+Lime-green center block
+
+Paintbrush tip and shaft with 2 handle bands
+
+No warping, distortion, or cropping
+
+Logo must contrast clearly against shirt and remain fully visible
+
+🩳 Shorts
+Color: Plat Blue #6D7BE3
+
+Style: Simple, knee-length, no patterns
+
+👟 Shoes
+Color: Matte black
+
+No embellishments, logos, or alternate colors
+
+🖐️ Hands
+Each hand must have 5 anatomically correct digits
+
+Proportional and properly spaced for a child
+
+No fusion, duplication, or simplification
+
+Thumbs must appear on the correct sides with natural joint angle
+
+📐 Framing & Pose
+Full-body, centered on white background
+
+Generous horizontal margins
+
+Neutral standing pose with feet flat and slightly outward
+
+Maintain original canvas width — no crop, zoom, or scale

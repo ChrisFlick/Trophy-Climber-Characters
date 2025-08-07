@@ -1,0 +1,83 @@
+🖌️ Shirt Logo — Full Prompt Lock
+🔰 Design Description
+A sword crossed with a paintbrush, forming a stylized “X”
+
+The sword must:
+
+Be diagonally oriented, pointing upward-right
+
+Have a wide blade tapering to a sharp point
+
+Include a U-shaped curved crossguard with tapered ends
+
+Feature a center block at the intersection (lime green square)
+
+Use a solid black grip/handle, clearly separated from the guard
+
+The paintbrush must:
+
+Be diagonally oriented, pointing upward-left
+
+Have a leaf-shaped bristle — not feathered, no fraying
+
+Include a rectilinear shaft with two visible handle bands
+
+Handle thickness must match sword's visual weight
+
+🎨 Color Lock — Channel-Compatible Palette
+Fill color: #A2D729 (Lime-Green Yellow variant)
+
+Outline/stroke: #333333 (Charcoal Black)
+
+Color enforcement rules:
+
+No hue shifts, gradients, desaturation, or substitutions
+
+Maintain high contrast against shirt background (#73778E)
+
+Colors must appear matte — no gloss, no lighting effects
+
+🧱 Geometry Lock — Vector Fidelity
+Must follow the vector structure from reference image:
+1458AA22-0873-4697-BFE3-86CCCB57F340.jpeg
+
+Symmetry and proportion must be preserved:
+
+Sword tip and brush tip must not be cropped or hidden
+
+Crossguard and paintbrush bands must remain visible and intact
+
+Center lime-green block must remain centered and square
+
+No geometric distortion, warping, or alignment drift
+
+🔒 Pose-Resistant Geometry Lock (v4)
+This ensures the logo remains readable and fully intact regardless of character pose, arm movement, or shirt curvature.
+
+Sword and brush must remain clearly visible even when shirt is stretched or angled
+
+No compression or skewing of internal elements
+
+Logo must scale and align correctly with shirt shape
+
+Center alignment on the chest is mandatory — never offset
+
+Logo should always include full tip of sword and brush, crossguard, lime-green center block, and brush bands
+
+🧱 Positioning Lock
+Logo must appear:
+
+Centered on the chest of the shirt
+
+Scaled proportionally to fit cleanly within shirt bounds
+
+Never tilted, rotated, shrunk, enlarged, or misaligned
+
+Must always contrast visibly with shirt color #73778E
+
+💠 Usage Notes
+This logo is currently worn by the Child Character v4
+
+It integrates into all standing, neutral, and expressive poses
+
+Additional poses (e.g., flexing, pointing, Leonardo meme) must preserve logo geometry and visibility
